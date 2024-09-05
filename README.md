@@ -8,7 +8,7 @@ I am a third-year computer engineering student at McGill University, passionate 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
+Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
 
 ## 🎓 About Me
 
