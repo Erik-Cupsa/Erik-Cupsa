@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
 
 <p align="center">
-CTO of PromptShop
+CTO of <a href="https://www.promptshop.co">PromptShop</a><br />
+The agentic App Store
 </p>
 
 ## About Me
 
-I’m the CTO of PromptShop, the agentic App Store where businesses can discover and deploy AI solutions in one place.
+I’m the CTO of [PromptShop](https://www.promptshop.co), the agentic App Store where businesses can discover and deploy AI solutions in one place.
 
 I’m focused on building the infrastructure, platform, and user experience that make AI products easier to access, use, and scale for real businesses.
 
@@ -18,6 +19,8 @@ I’m focused on building the infrastructure, platform, and user experience that
 - Infrastructure for the next generation of AI distribution
 
 ## PromptShop
+
+[**www.promptshop.co**](https://www.promptshop.co)
 
 PromptShop is building the agentic App Store.
 
